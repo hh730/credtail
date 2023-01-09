@@ -21,4 +21,4 @@ Ont this screen, we show sucsess for particular invoice
 <a href="https://drive.google.com/file/d/1_PgCdcbIlGJPRP4NqEwn8DoEd1aEekCc/view?usp=share_link"> Link to download APK </a>
 --------------
 #### Technologies used for this application:
-React-Native | Axios | React-Navigation 
+React-Native | React-Navigation 
