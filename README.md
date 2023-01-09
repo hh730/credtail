@@ -3,12 +3,14 @@
 The app is a price tracker of cryptocurrency powered by coingeeko api (https://www.coingecko.com/en/api).
 - At this moment, all the currency conversions are in USD.
 ## INVOICES  
-On this screen, we mainly deploy a list of cryptocurrency, paginated 15 by 15 with infinit scroll, ordered by the rank provided by the API. Here we can visualize the name, rank, symbol, percentage change (24hs), current price and market cap of each currency.  
+On this screen, we show all invoices 
+<img src="https://drive.google.com/file/d/1TzOjWeClLWu24KFtgLHF95qPZhkm176D/view?usp=share_link"/>
 
 ## PAYMENT COLLECTION
-On this screen, we can search a
+On this screen, we show paymnet collection for particular invoice
 
 ## SUCCESS
+Ont this screen, we show sucsess for particular invoice
 
 --------------
 <a href="https://drive.google.com/file/d/1_PgCdcbIlGJPRP4NqEwn8DoEd1aEekCc/view?usp=share_link"> Link to download APK </a>
