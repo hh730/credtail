@@ -1,7 +1,13 @@
 # CredTail
+### Setup
+1. Open Terminal and navigate to project
+2. Run npm i
+3. cd ios
+4. pod install
+5. npx react-native run-ios (for iOS)
+6. npx react-native run-android (for android)
 #### This project is a React-Native app
-The app is a price tracker of cryptocurrency powered by coingeeko api (https://www.coingecko.com/en/api).
-- At this moment, all the currency conversions are in USD.
+The app is a Credtail PArtner App
 ## INVOICES  
 On this screen, we show all invoices 
 <br/>
