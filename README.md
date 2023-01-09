@@ -8,6 +8,9 @@
 6. npx react-native run-android (for android)
 #### This project is a React-Native app
 The app is a Credtail PArtner App
+--------------
+<a href="https://drive.google.com/file/d/1_PgCdcbIlGJPRP4NqEwn8DoEd1aEekCc/view?usp=share_link"> Link to download APK </a>
+--------------
 ## INVOICES  
 On this screen, we show all invoices 
 <br/>
@@ -23,8 +26,6 @@ Ont this screen, we show sucsess for particular invoice
 ![Screenshot_20230110_025947_credtail](https://user-images.githubusercontent.com/51542809/211413221-165274a8-1077-425f-8a69-1ddc7feb9e2e.jpg)
 
 
---------------
-<a href="https://drive.google.com/file/d/1_PgCdcbIlGJPRP4NqEwn8DoEd1aEekCc/view?usp=share_link"> Link to download APK </a>
---------------
+
 #### Technologies used for this application:
 React-Native | React-Navigation 
