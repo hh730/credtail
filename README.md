@@ -7,7 +7,7 @@
 5. npx react-native run-ios (for iOS)
 6. npx react-native run-android (for android)
 #### This project is a React-Native app
-The app is a Credtail PArtner App
+The app is a Credtail Partner App
 --------------
 <a href="https://drive.google.com/file/d/1_PgCdcbIlGJPRP4NqEwn8DoEd1aEekCc/view?usp=share_link"> Link to download APK </a>
 --------------
